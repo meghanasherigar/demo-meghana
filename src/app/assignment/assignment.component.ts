@@ -64,7 +64,7 @@ export class AssignmentComponent implements OnInit ,AfterViewInit,AfterViewCheck
  
   
 
-   setTimer(){szsss
+   setTimer(){
      
       
       merge(this.pause$, this.resume$)
